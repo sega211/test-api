@@ -5,15 +5,15 @@
 
 Для корректной работы приложения выполните следующие шаги:
 
-    Клонируйте репозиторий на свой сервер.
-    Переименуйте файл .env.example в .env.
-    Обновите параметры подключения к базе данных в файле .env, используя следующие данные:
-DB_CONNECTION=mysql
-DB_HOST=95.31.208.53
-DB_PORT=3306
-DB_DATABASE=laravel
-DB_USERNAME=laravel
-DB_PASSWORD=laravel
+Клонируйте репозиторий на свой сервер.
+Переименуйте файл .env.example в .env.
+Обновите параметры подключения к базе данных в файле .env, используя следующие данные:
+    DB_CONNECTION=mysql
+    DB_HOST=95.31.208.53
+    DB_PORT=3306
+    DB_DATABASE=laravel
+    DB_USERNAME=laravel
+    DB_PASSWORD=laravel
 База данных размещена на домашнем хостинге и доступна через внешний IP.
 Для доступа к phpMyAdmin используйте следующую ссылку: http://95.31.208.53/phpmyadmin
 
